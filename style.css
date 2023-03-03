@@ -1,3 +1,9 @@
 body {
   background-color: #aaa;
 }
+
+.catheading {
+  text-align: center;
+  font-style: italic;
+  font-size: 250%;
+}
